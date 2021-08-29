@@ -58,7 +58,7 @@ namespace DisconnectedArchitecture_DML_App
                 input = Console.ReadLine();
             }
             while (input == "y");
-;        }
+        }
 
         public void DisplayAllEmps()
         {
