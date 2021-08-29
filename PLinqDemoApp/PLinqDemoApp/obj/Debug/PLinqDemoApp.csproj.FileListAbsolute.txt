@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\bin\Debug\PLinqDemoApp.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\bin\Debug\PLinqDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\bin\Debug\PLinqDemoApp.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\obj\Debug\PLinqDemoApp.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\obj\Debug\PLinqDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\PLinqDemoApp\PLinqDemoApp\obj\Debug\PLinqDemoApp.pdb
