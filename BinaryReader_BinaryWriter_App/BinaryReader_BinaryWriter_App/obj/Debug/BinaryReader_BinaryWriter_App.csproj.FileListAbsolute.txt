@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinaryReader_BinaryWriter_App\BinaryReader_BinaryWriter_App\bin\Debug\BinaryReader_BinaryWriter_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinaryReader_BinaryWriter_App\BinaryReader_BinaryWriter_App\bin\Debug\BinaryReader_BinaryWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinaryReader_BinaryWriter_App\BinaryReader_BinaryWriter_App\bin\Debug\BinaryReader_BinaryWriter_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinaryReader_BinaryWriter_App\BinaryReader_BinaryWriter_App\obj\Debug\BinaryReader_BinaryWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinaryReader_BinaryWriter_App\BinaryReader_BinaryWriter_App\obj\Debug\BinaryReader_BinaryWriter_App.pdb
