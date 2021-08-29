@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\bin\Debug\TaskDemoApp.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\bin\Debug\TaskDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\bin\Debug\TaskDemoApp.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\obj\Debug\TaskDemoApp.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\obj\Debug\TaskDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\TaskDemoApp\TaskDemoApp\obj\Debug\TaskDemoApp.pdb
