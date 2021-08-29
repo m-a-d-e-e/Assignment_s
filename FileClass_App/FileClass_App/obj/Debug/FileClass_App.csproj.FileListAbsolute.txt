@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\bin\Debug\FileClass_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\bin\Debug\FileClass_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\bin\Debug\FileClass_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\obj\Debug\FileClass_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\obj\Debug\FileClass_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileClass_App\FileClass_App\obj\Debug\FileClass_App.pdb
