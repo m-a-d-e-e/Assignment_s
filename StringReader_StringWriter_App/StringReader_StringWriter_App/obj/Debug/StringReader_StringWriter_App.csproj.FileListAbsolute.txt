@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\bin\Debug\StringReader_StringWriter_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\bin\Debug\StringReader_StringWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\bin\Debug\StringReader_StringWriter_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\obj\Debug\StringReader_StringWriter_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\obj\Debug\StringReader_StringWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StringReader_StringWriter_App\StringReader_StringWriter_App\obj\Debug\StringReader_StringWriter_App.pdb
