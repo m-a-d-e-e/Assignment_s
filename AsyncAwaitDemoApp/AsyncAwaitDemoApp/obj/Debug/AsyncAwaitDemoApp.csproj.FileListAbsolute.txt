@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\AsyncAwaitDemoApp.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\AsyncAwaitDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\AsyncAwaitDemoApp.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\AsyncAwaitDemoApp.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\AsyncAwaitDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\AsyncAwaitDemoApp.pdb
