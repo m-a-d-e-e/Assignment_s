@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\bin\Debug\SoapSerialization_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\bin\Debug\SoapSerialization_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\bin\Debug\SoapSerialization_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\obj\Debug\SoapSerialization_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\obj\Debug\SoapSerialization_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\SoapSerialization_App\SoapSerialization_App\obj\Debug\SoapSerialization_App.pdb
