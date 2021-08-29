@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\DisconnectedArchitecture_DML_App\DataBaseLibrary\bin\Debug\DataBaseLibrary.dll
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\DisconnectedArchitecture_DML_App\DataBaseLibrary\bin\Debug\DataBaseLibrary.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\DisconnectedArchitecture_DML_App\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\DisconnectedArchitecture_DML_App\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\DisconnectedArchitecture_DML_App\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
