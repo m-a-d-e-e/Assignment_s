@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileStreamClass_App\FileStreamClass_App\bin\Debug\FileStreamClass_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileStreamClass_App\FileStreamClass_App\bin\Debug\FileStreamClass_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileStreamClass_App\FileStreamClass_App\bin\Debug\FileStreamClass_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileStreamClass_App\FileStreamClass_App\obj\Debug\FileStreamClass_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\FileStreamClass_App\FileStreamClass_App\obj\Debug\FileStreamClass_App.pdb
