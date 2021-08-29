@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\TextReader_TextWriter_App\TextReader_TextWriter_App\bin\Debug\TextReader_TextWriter_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\TextReader_TextWriter_App\TextReader_TextWriter_App\bin\Debug\TextReader_TextWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\TextReader_TextWriter_App\TextReader_TextWriter_App\bin\Debug\TextReader_TextWriter_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\TextReader_TextWriter_App\TextReader_TextWriter_App\obj\Debug\TextReader_TextWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\TextReader_TextWriter_App\TextReader_TextWriter_App\obj\Debug\TextReader_TextWriter_App.pdb
