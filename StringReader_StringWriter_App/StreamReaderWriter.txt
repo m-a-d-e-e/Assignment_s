@@ -1,3 +1,0 @@
-C# File IO testing.....................
-StreamWriter inherits from TextWriter
-StreamReader inherits from TextReader
