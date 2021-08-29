@@ -1,4 +1,0 @@
-The TextWriter class is an abstract class. Therefore, you do not instantiate it in your code.
-File.CreateText() methods creates or opens a file for writing UTF-8 encoded text.
-If the file already exists, its contents are overwritten.
-WriteLine() method writes data to the text stream, followed by a line terminator.
