@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\SalaryBreakUp\SalaryBreakUpLib\bin\Debug\SalaryBreakUpLib.dll
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\SalaryBreakUp\SalaryBreakUpLib\bin\Debug\SalaryBreakUpLib.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\SalaryBreakUp\SalaryBreakUpLib\obj\Debug\SalaryBreakUpLib.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\SalaryBreakUp\SalaryBreakUpLib\obj\Debug\SalaryBreakUpLib.dll
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\SalaryBreakUp\SalaryBreakUpLib\obj\Debug\SalaryBreakUpLib.pdb
