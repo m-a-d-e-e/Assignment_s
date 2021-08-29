@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\bin\Debug\StreamReader_StreamWriter_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\bin\Debug\StreamReader_StreamWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\bin\Debug\StreamReader_StreamWriter_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\obj\Debug\StreamReader_StreamWriter_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\obj\Debug\StreamReader_StreamWriter_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\StreamReader_StreamWriter_App\StreamReader_StreamWriter_App\obj\Debug\StreamReader_StreamWriter_App.pdb
