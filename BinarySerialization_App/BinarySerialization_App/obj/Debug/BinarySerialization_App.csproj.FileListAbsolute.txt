@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\bin\Debug\BinarySerialization_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\bin\Debug\BinarySerialization_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\bin\Debug\BinarySerialization_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\obj\Debug\BinarySerialization_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\obj\Debug\BinarySerialization_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\File IO\BinarySerialization_App\BinarySerialization_App\obj\Debug\BinarySerialization_App.pdb
